@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,900);
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,800);
+@import url(https://fonts.googleapis.com/css?family=Eczar:400,800);
+body {
+	text-align: center;
+	background-color: white;
+	background-image: url('../images/books.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	font-family: 'Playfair Display SC';
+	  
+}
+h1, #djj {
+	color: red;
+
+}
+
+p {
+	height: 100%;
+	line-height: 250%;
+	font-family: 'Work Sans';
+	font-size: 250%;
+	color: yellow;
+	margin-top: -5%;
+}
+
+h2 {
+	font-size: 450%;
+}
+header {
+	background: #FFED74;
+	margin: auto;
+	width: 100%;
+}
+
+hr {
+	width: 375px;
+
+}
+nav {
+	background: #E8C66A;
+	margin: 0;
+	padding: 0;
+}
+ul {
+	list-style: none;
+}
+article {
+	background: #E89C6C;
+	font-family: 'Work Sans';
+	margin: 2em;
+	padding: 2em;
+}
+footer {
+	background: #FF957E;
+	color: white;
+	font-family: Helvetica;
+}
+div, section{
+	background: #FFE2B8;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:visited {
+    color: purple;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
